@@ -3,6 +3,6 @@ clothing-shop/
 │── products.html
 │── cart.html
 │── contact.html
-│── style
+│── style.ccs
 │── script.js
 └── images/
